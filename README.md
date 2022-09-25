@@ -1,1 +1,1 @@
-# Hack School Fall 2022 - Part 1: HTML & CSS
+# Hack School Fall 2022 - Part 2: JavaScript & Node.js
