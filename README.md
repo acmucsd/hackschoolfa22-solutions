@@ -1,1 +1,1 @@
-# hackschoolfa22-solutions
+# Part 1
