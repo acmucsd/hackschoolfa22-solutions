@@ -7,9 +7,9 @@ import './style.css';
 const Navbar = () => {
     return (
         <div className="navbar">
-            <div className="title">
-                <h1>Finance Buddy</h1>
-            </div>
+            <h1 className="title">
+                Finance Buddy
+            </h1>
             <div className="nav-buttons">
                 <a href="/create">Create New Purchase</a>
                 <a href="/view">View Purchase</a>
