@@ -1,20 +1,20 @@
 .navbar {
     background-color: darkblue;
-    border-bottom: 15px solid gold;
-    color: #FFF;
-    margin-bottom: 25px;
+    color: white;
+    border-bottom: 5px solid gold;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    padding: 25px;
 }
 
-.navbar .title {
-    margin: auto 16px;
+.nav-buttons {
+    display: flex;
+    gap: 30px;
 }
-
-.nav-buttons a {
-    color: #FFF;
-    font-size: 18px;
-    margin-right: 32px;
+.nav-buttons > a {
+    color: white;
     text-decoration: none;
 }
