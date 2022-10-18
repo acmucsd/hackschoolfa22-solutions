@@ -1,82 +1,83 @@
 .view-purchase-header {
-    margin-left: 2vw;
+  margin-left: 2vw;
 }
 
 .purchase-filter {
-    margin-left: 2vw;
-    margin-bottom: 0;
+  margin-left: 2vw;
+  margin-bottom: 0;
 }
 
 .purchase-empty-result {
-    margin-left: 2vw;
-    border: 2px solid #7171CF;
-    background-color: #7171CF;
-    border-radius: 5px;
-    max-width: 400px;
+  margin-left: 2vw;
+  border: 2px solid #7171cf;
+  background-color: #7171cf;
+  border-radius: 5px;
+  max-width: 400px;
 }
 
 .purchase-empty-result-inner {
-    color: white;
-    padding: 1vw;
+  color: white;
+  padding: 1vw;
 }
 
 .purchase-empty-result-inner a {
-    color: #BFBF41;
+  color: #bfbf41;
 }
 
 .purchase-empty-result-inner a:visited {
-    color: #BFBF41;
+  color: #bfbf41;
 }
 
 label {
-    margin: 0 5px;
+  margin: 0 5px;
 }
 
 .create-page {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+  height: calc(100vh - 85px);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .purchase-form {
-    border: 1px solid gold;
-    padding: 20px;
-    width: 35%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 20px;
+  padding: 20px;
+  /* width: 35%; */
 }
 
 .name-row {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .name-row button {
-    margin-left: 10px;
+  margin-left: 10px;
 }
 
 .description-row {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .location-row {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .date-row {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .cost-row {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .method-row {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .image {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .row {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
-

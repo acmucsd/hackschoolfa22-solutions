@@ -9,7 +9,7 @@ const PurchaseCard = (props) => {
         Credit: "red",
         Debit: "yellow",
         Check: "white",
-        Crytpo: "gold"
+        Crypto: "gold"
     };
 
     /* Changes font color based on the purchase type */
